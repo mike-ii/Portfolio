@@ -15,6 +15,6 @@
 
 <br><br>
 
-# Projects
+# Skills
 
-1. Create a list of projects
+Refer to the [MyProgress](https://github.com/mike-ii/MyProgress) repository.
